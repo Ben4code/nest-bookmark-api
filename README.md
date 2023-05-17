@@ -24,8 +24,6 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
 A Bookmark API implemented using Nest nodejs framework, Docker, Prisma ORM and Passportjs
 
 ## Installation
